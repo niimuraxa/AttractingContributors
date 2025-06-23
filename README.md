@@ -5,4 +5,5 @@
 - backpack
 - sacoche
 - shoulder bag
+- eco-bag
   

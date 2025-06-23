@@ -4,4 +4,5 @@
 - handbag
 - backpack
 - sacoche
+- shoulder bag
   

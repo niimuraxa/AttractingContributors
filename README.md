@@ -12,3 +12,6 @@
 - 6.5 hours
 - 5 hours
 - 8 hours
+- 7 hours
+- 9 hours
+- 6~7.5 hours

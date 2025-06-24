@@ -5,5 +5,5 @@
 - backpack
 - sacoche
 - shoulder bag
+- suitcase  
 - Furoshiki
-  

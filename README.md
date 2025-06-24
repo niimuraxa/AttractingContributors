@@ -6,3 +6,4 @@
 - sacoche
 - shoulder bag
 - suitcase  
+- Furoshiki

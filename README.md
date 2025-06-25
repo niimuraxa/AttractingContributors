@@ -3,6 +3,7 @@
 ## List of Movies  
 - Harry Potter    
 - Back to the Future
+- The Wolf of Wall Street
 - No Reservations
 - tenet 
 - The Mummy

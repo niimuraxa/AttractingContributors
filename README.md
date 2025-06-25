@@ -18,3 +18,4 @@
 - 7 hours
 - 9 hours
 - 6~7.5 hours
+- 4~8 hours

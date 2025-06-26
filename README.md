@@ -3,6 +3,7 @@
 # List of brand or company
 - Nintendo
 - Key
+- KONAMI
 - Supercell
 - Paradox Interactive
 - Bandai namco

@@ -16,4 +16,6 @@
 - The wind rises
 - Jurassic Park
 - STAR WARS
+- LoveLive! The School Idol Movie
+- Masked-Rider Den-O Ore, Tanjo!
 - Lord of the rings

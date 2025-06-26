@@ -11,3 +11,4 @@
 - Paradox Interactive
 - Bandai namco
 >>>>>>> main
+Blizzard Entertainment

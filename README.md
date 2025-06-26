@@ -3,7 +3,11 @@
 # List of brand or company
 - Nintendo
 - Key
+<<<<<<< patch-7
+- GAME FREAK
+=======
 - KONAMI
 - Supercell
 - Paradox Interactive
 - Bandai namco
+>>>>>>> main

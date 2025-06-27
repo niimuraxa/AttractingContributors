@@ -7,7 +7,8 @@
 - shoulder bag
 - eco-bag
 - suitcase  
-- Furoshiki
-- four-dimensional pocket
-- tote bag
-- Backpack
+- Furoshiki  
+- four-dimensional pocket  
+- tote bag  
+- Backpack  
+- Mochi tote  

@@ -1,6 +1,6 @@
 # What is your favorite bag?
 
-# List of place
+# List of bag
 - handbag
 - backpack
 - sacoche

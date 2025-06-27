@@ -3,3 +3,4 @@
 # List of video games
 - Katamari Damacy
 - Biohazard
+- Fantasy Life

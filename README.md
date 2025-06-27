@@ -12,3 +12,4 @@
 - Bandai namco
 >>>>>>> main
 Blizzard Entertainment
+- CAPCOM

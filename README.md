@@ -3,3 +3,4 @@
 # List of video games
 - Katamari Damacy
 - Biohazard
+- GOD EATER 2 RAGE BURST

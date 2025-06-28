@@ -3,6 +3,7 @@
 # List of game
 - valorant
 - apex
+- dota
 - Metal gear sold
 - pokemon
 - Magic: The Gathering Arena

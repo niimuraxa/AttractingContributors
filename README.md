@@ -3,6 +3,7 @@
 # List of game
 - valorant
 - apex
+- stardew valley
 - World of Warcraft
 - Dragon Quest Series
 - Naruto Shippuden Ultimate Ninja Storm 4

@@ -3,6 +3,7 @@
 # List of game
 - valorant
 - apex
+- Clash Royale
 - stardew valley
 - World of Warcraft
 - Dragon Quest Series
@@ -15,3 +16,4 @@
 - Mario Kart
 - Monster Hunter 
 - Othello
+

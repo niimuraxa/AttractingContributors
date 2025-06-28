@@ -3,6 +3,7 @@
 # List of game
 - valorant
 - apex
+- Dragon Quest Series
 - Naruto Shippuden Ultimate Ninja Storm 4
 - dota
 - Metal gear sold

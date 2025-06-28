@@ -20,4 +20,5 @@
 - 6~7.5 hours
 - 4~8 hours
 - 5~6 hours
+- 5~6.5 hours
 - 6.5-7 hours

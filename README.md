@@ -6,3 +6,4 @@
 - サカナクション
 - super beaver
 - LE SSERAFIM
+- Midnight Grand Orchestra

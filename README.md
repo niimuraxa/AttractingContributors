@@ -3,7 +3,7 @@
 # List of video games
 - Katamari Damacy
 - Biohazard
-
+- Monster Hunter
 - Gameboy Wars
 - GOD EATER 2 RAGE BURST
 - Monster Hunter

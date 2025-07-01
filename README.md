@@ -13,3 +13,4 @@
 >>>>>>> main
 Blizzard Entertainment
 - CAPCOM
+- Sega

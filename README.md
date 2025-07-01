@@ -4,3 +4,15 @@
 - Katamari Damacy
 - Biohazard
 - Monster Hunter
+- Gameboy Wars
+- GOD EATER 2 RAGE BURST
+- Monster Hunter
+- Fantasy Life
+- Pocket Monster Sun and Moon
+- The Legend of Zelda: Majora's Mask
+- The Legend of Zelda: Skyward Sword
+- Puyo Puyo
+- Word of Warcraft
+- Pokémon Platinum
+- New Super Mario Bros. DS
+- Monster Hunter 4

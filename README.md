@@ -17,3 +17,4 @@
 - New Super Mario Bros. DS
 - Monster Hunter 4
 - Dark Soul
+- Serious Sam

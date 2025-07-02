@@ -16,3 +16,4 @@
 - Pokémon Sun and Moon
 - New Super Mario Bros. DS
 - Monster Hunter 4
+- Dark Soul

@@ -21,3 +21,4 @@
 - Masked-Rider Den-O Ore, Tanjo!
 - Lord of the rings
 - Miss Kobayashi's Dragon Maid
+- Lilo & Stitch

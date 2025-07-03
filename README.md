@@ -7,3 +7,4 @@
 - cat
 - horse🐴
 - cattle 🐄
+- cats!

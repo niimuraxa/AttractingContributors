@@ -4,6 +4,8 @@
 
 # List of artist
 - サカナクション
+- MyGO!!!!!
+- BUMP OF CHICKEN
 - super beaver
 - LE SSERAFIM
 - Queen
@@ -11,6 +13,7 @@
 - METALLICA
 - 斉藤和義
 - Jun Maeda
+
 
 
 

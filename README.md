@@ -10,4 +10,4 @@
 - Sequential Data Modeling 系列データモデリング
 - Robotics ロボティクス
 - Research　Writing
-
+- プログラミング演習

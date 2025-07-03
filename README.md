@@ -18,3 +18,4 @@
 - Monster Hunter 4
 - Dark Soul
 - Serious Sam
+- Animal Crossing: New Leaf

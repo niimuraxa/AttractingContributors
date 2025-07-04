@@ -11,3 +11,6 @@
 - Robotics ロボティクス
 - Research　Writing
 - プログラミング演習
+- Transmission Theory 伝送理論
+- research presentation
+- cyber security

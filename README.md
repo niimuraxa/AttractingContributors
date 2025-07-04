@@ -8,6 +8,7 @@
 - Visual Media Processing 視覚メディア処理
 - Ubiquitous
 - Sequential Data Modeling 系列データモデリング
+- Software Engineering ソフトウェア工学
 - Robotics ロボティクス
 - Research　Writing
 - Adavanced Research Writing

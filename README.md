@@ -10,5 +10,5 @@
 - Sequential Data Modeling 系列データモデリング
 - Robotics ロボティクス
 - Research　Writing
+- research presentation
 - cyber security
-

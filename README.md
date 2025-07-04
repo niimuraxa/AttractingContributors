@@ -10,6 +10,7 @@
 - Sequential Data Modeling 系列データモデリング
 - Robotics ロボティクス
 - Research　Writing
+- Adavanced Research Writing
 - Advanced Algorithm Design アルゴリズム設計論
 - プログラミング演習
 - Transmission Theory 伝送理論

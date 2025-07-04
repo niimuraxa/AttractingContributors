@@ -10,5 +10,6 @@
 - Sequential Data Modeling 系列データモデリング
 - Robotics ロボティクス
 - Research　Writing
+- Transmission Theory 伝送理論
 - research presentation
 - cyber security
